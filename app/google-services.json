@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261296318059",
+    "project_id": "projetmobile-7544a",
+    "storage_bucket": "projetmobile-7544a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261296318059:android:5edfe6da87cc7c54b4f32e",
+        "android_client_info": {
+          "package_name": "tn.hajri.courdeveloppement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOSVONKYWpD678_zuG4svz5tGVkhuIOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
